@@ -153,8 +153,9 @@ O bônus só é avaliado se a parte obrigatória estiver 100% correta, incluindo
 ├── src/
 ├── includes/
 │   └── push_swap.h
-├── checker/ (bônus)
-└── libft/ (se aplicável)
+├── checker_linux
+├── checker_bonus
+└── libft/
 ```
 🧩 Observações finais
 
